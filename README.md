@@ -1,7 +1,11 @@
 📌 Segmentasi Pasar dengan K-Means Clustering
 
-Proyek ini bertujuan melakukan segmentasi pelanggan berdasarkan perilaku belanja pada dataset E-commerce Customer Behavior.
-Analisis dilakukan melalui tahapan EDA, preprocessing, pemilihan jumlah cluster optimal (Elbow & Silhouette), hingga interpretasi hasil clustering (K=3).
+Proyek ini bertujuan melakukan segmentasi pelanggan berdasarkan perilaku belanja pada dataset E-commerce Customer Behavior. Analisis dilakukan melalui tahapan EDA, preprocessing, pemilihan jumlah cluster optimal (Elbow & Silhouette), hingga interpretasi hasil clustering (K=3).
+
+Dataset yang digunakan diambil dari Kaggle:
+🔗 E-commerce Customer Behavior Dataset – Kaggle
+
+Dataset ini terdiri dari 350 baris data dengan 11 kolom yang merepresentasikan atribut profil maupun perilaku pelanggan.
 
 🔑 Fitur Utama:
 
